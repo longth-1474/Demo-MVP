@@ -1,3 +1,41 @@
 <resources>
-    <string name="app_name">MVP Android</string>
+    <string name="app_name">Music Up</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="image_search">image search</string>
+    <string name="image_info">image info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="discover">Discover</string>
+    <string name="trending">Trending</string>
+    <string name="person">Person</string>
+    <string name="ratio16_9">H,16:9</string>
+    <string name="see_all">See all</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="favorite_songs">Favorite Songs</string>
+    <string name="playlist">Playlist</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="gradient">gradient</string>
+    <string name="close">close</string>
+    <string name="timer">timer</string>
+    <string name="time_default">00:00</string>
+    <string name="image_shuffle">image shuffle</string>
+    <string name="image_next">image next</string>
+    <string name="image_play">image play</string>
+    <string name="image_previous">image previous</string>
+    <string name="image_loop">image loop</string>
+    <string name="country">Country</string>
+    <string name="new_music">New Music</string>
+    <string name="home">Home</string>
+    <string name="Person">Person</string>
+    <string name="more">more</string>
+    <string name="back">back</string>
+    <string name="type_here_to_search">Type here to search...</string>
+    <string name="delete">Delete</string>
+    <string name="recent_key_word_search">Recent key word search</string>
+    <string name="save">save</string>
+    <string name="headphone">headphone</string>
+    <string name="add_playlist">add playlist</string>
+    <string name="background">background</string>
+    <string name="default_song">songs</string>
 </resources>
